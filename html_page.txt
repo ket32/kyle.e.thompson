@@ -41,7 +41,7 @@ Released   : 20121231
 		</ul>
 	</div>
 	<div id="banner"><img src="/images/2-Thompson_Kyle-1.JPG" width="1100" height="450" alt=""></div>
-	<div id="three-columns">
+	<div id="news-column">
 		<div class="content">
 			<div id="column1">
 				<h2>Fusce fringilla</h2>
