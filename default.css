@@ -159,7 +159,7 @@ hr {
 #menu a {
 	display: block;
 	padding: 0px 40px 0px 40px;
-	line-height: 80px;
+	line-height: 90px;
 	text-decoration: none;
 	text-align: center;
 	font-size: 14px;
@@ -301,7 +301,7 @@ hr {
 
 #three-columns #column2 {
 	float: left;
-	width: 290px;
+	width: 2px;
 }
 
 #three-columns #column3 {
@@ -400,6 +400,7 @@ hr {
 	width: 1100px;
 	margin: 10px auto 0px auto;
 }
+
 
 
 
