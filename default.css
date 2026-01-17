@@ -107,7 +107,6 @@ hr {
 	line-height: 100px;
 	letter-spacing: -1px;
 	text-align: center;
-	text-transform: lowercase;
 	font-size: 5em;
 	color: #1F1F1F;
 }
@@ -401,6 +400,7 @@ hr {
 	width: 1100px;
 	margin: 10px auto 0px auto;
 }
+
 
 
 
