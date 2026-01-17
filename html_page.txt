@@ -27,7 +27,7 @@ Released   : 20121231
 	<div id="header">
 		<div id="logo">
 			<h1><a href="#">Kyle E. Thompson</a></h1>
-			<p> Social Scientist, Researcher, Scholar</p>
+			<p> Community Builder, Social Scientist, Scholar</p>
 		</div>
 	</div>
 	<!-- end #header -->
