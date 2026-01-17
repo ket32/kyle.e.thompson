@@ -5,7 +5,7 @@ html, body {
 body {
 	margin: 0;
 	padding: 0;
-	background: #0DC92C url(images/img01.jpg) repeat;
+	background: #FFFFFF url(images/img01.jpg) repeat;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
 	font-weight: 200;
@@ -400,6 +400,7 @@ hr {
 	width: 1100px;
 	margin: 10px auto 0px auto;
 }
+
 
 
 
