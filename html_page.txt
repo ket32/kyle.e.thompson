@@ -33,12 +33,11 @@ Released   : 20121231
 	<!-- end #header -->
 	<div id="menu">
 		<ul>
-			<li class="current_page_item"><a href="#">Home</a></li>
+			<li class="current_page_item"><a></li>
 			<li><a href="#">Aesthetics</a></li>
 			<li><a href="#">Epistemology</a></li>
 			<li><a href="#">About Me</a></li>
-			<li><a href="#">Links</a></li>
-			<li class="last"><a href="#">Contact</a></li>
+			<li><a href="#">Publications</a></li>
 		</ul>
 	</div>
 	<div id="banner"><img src="/images/2-Thompson_Kyle-1.JPG" width="1100" height="450" alt=""></div>
