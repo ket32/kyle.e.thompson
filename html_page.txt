@@ -33,11 +33,12 @@ Released   : 20121231
 	<!-- end #header -->
 	<div id="menu">
 		<ul>
-			<li class="current_page_item"><a></li>
-			<li><a href="#">Aesthetics</a></li>
-			<li><a href="#">Epistemology</a></li>
-			<li><a href="#">About Me</a></li>
-			<li><a href="#">Publications</a></li>
+			<li class="current_page_item"><a href="bio.html">About Me</a></li>
+			<li><a href="aesthetic.html">Aesthetics</a></li>
+			<li><a href="epi.html">Epistemology</a></li>
+			<li><a href="meta.html">Metaphysics</a></li>
+			<li><a href="research.html">Research</a></li>
+			<li class="last"><a href="contact.html">Contact</a></li>
 		</ul>
 	</div>
 	<div id="banner"><img src="/images/2-Thompson_Kyle-1.JPG" width="1100" height="450" alt=""></div>
